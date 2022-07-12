@@ -1,0 +1,22 @@
+{
+  "name": "-vuejs-5-minutes",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "@storyblok/vue-2": "^1.0.0",
+    "@vue/composition-api": "^1.4.6",
+    "axios": "^0.26.0",
+    "vue": "^2.6.14",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "devDependencies": {
+    "@storyblok/vue-2": "^1.0.0",
+    "unplugin-vue2-script-setup": "^0.9.1",
+    "vite": "^2.4.4",
+    "vite-plugin-vue2": "^1.8.0"
+  }
+}
